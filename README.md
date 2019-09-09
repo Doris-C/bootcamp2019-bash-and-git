@@ -1,6 +1,6 @@
 # Session 1 - BASH
 
-##Source material
+## Source material
 
 Software Carpentry's [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
 
