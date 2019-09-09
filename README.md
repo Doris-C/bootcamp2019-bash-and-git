@@ -1,3 +1,5 @@
+# https://github.com/MSIA/bootcamp2019-bash-and-git/
+
 # Session 1 - BASH
 
 ## Source material
