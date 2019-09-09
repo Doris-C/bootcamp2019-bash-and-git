@@ -22,4 +22,4 @@ You will be using the Terminal application, which by default is installed on Mac
 [https://cscsupportftp.mykonicaminolta.com/DownloadFile/Download.ashx?fileversionid=28693&productid=1977](https://cscsupportftp.mykonicaminolta.com/DownloadFile/Download.ashx?fileversionid=28693&productid=1977)
 
 ### Mac Instructions
-
+[https://github.com/MSIA/bootcamp2019-bash-and-git/blob/master/Printer%20Setup%20for%20Macs.pdf](https://github.com/MSIA/bootcamp2019-bash-and-git/blob/master/Printer%20Setup%20for%20Macs.pdf)
