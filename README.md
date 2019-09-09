@@ -13,3 +13,11 @@ Software Carpentry's [The Unix Shell](http://swcarpentry.github.io/shell-novice/
 ### MacOS
 
 You will be using the Terminal application, which by default is installed on MacOS.
+
+## Printer Setup
+
+### Windows Driver
+[https://cscsupportftp.mykonicaminolta.com/DownloadFile/Download.ashx?fileversionid=28693&productid=1977](https://cscsupportftp.mykonicaminolta.com/DownloadFile/Download.ashx?fileversionid=28693&productid=1977)
+
+### Mac Instructions
+
